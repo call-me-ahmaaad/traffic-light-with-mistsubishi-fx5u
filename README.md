@@ -14,7 +14,7 @@ I also made another simulation using Node-RED. For the simulation that I made, I
 
 ## Demo
 
-[![Demo Project](https://drive.google.com/file/d/1CVyDvTE0mOv00Sr8yZ_r-xTr2DtwBKb7/view?usp=drive_link)](https://drive.google.com/file/d/1CbHs-9Xj0HQzgYRu7wBskTzrcGzhiAX2/view?usp=drive_link)
+[![Demo Project](https://drive.google.com/uc?export=view&id=1CVyDvTE0mOv00Sr8yZ_r-xTr2DtwBKb7)](https://drive.google.com/file/d/1CbHs-9Xj0HQzgYRu7wBskTzrcGzhiAX2/view?usp=sharing)
 
 For the complete documentation and detailed information about this project, [click here](https://drive.google.com/drive/folders/1-eZnTYB7mD_g1awb79I-ZuLlKxUEwMGv?usp=drive_link).
 
